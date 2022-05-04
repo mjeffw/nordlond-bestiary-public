@@ -1,5 +1,5 @@
-# nordlond-bestiary-public
-Repository for public access of Nordlond Bestiary issues.
+# Norðlond Óvinabókin Bestiary and Enemies Book
+This GitHub is for support of the Foundry module, __Norðlond Óvinabókin: Nordlond Bestiary and Enemies__, which is an actor compendium of enemies (a "Monster Manual") for the Dungeon Fantary RPG.
 
 ## Using the Bestiary
 After installation into your Foundry instance, you access the bestiary by selecting the "Compendiums" tab in the sidebar on the right of the Foundry window. There should be an "Actor" compendium entitled "Nordlond Bestiary and Enemies".

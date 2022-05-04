@@ -1,10 +1,10 @@
 # Norðlond Óvinabókin Bestiary and Enemies Book
 
-This GitHub is for support of the Foundry module, [**Norðlond Óvinabókin: Nordlond Bestiary and Enemies**](https://gaming-ballistic.myshopify.com/collections/all-products/products/nordlondr-ovinabokin-bestiary-and-enemies-book?_pos=10&_fid=532e29de0&_ss=c&variant=42661549375743), which is an actor compendium of enemies (a "Monster Manual") for the [Dungeon Fantary RPG](http://www.warehouse23.com/products/SJG31-1005#_ga=2.47807847.1171997671.1651678932-449078822.1651678932).
+This GitHub is for support of the [Foundry](https://foundryvtt.com) module, [**Norðlond Óvinabókin: Nordlond Bestiary and Enemies**](https://gaming-ballistic.myshopify.com/collections/all-products/products/nordlondr-ovinabokin-bestiary-and-enemies-book?_pos=10&_fid=532e29de0&_ss=c&variant=42661549375743), which is an actor compendium of enemies (a "Monster Manual") for the [Dungeon Fantary RPG](http://www.warehouse23.com/products/SJG31-1005#_ga=2.47807847.1171997671.1651678932-449078822.1651678932).
 
 The Norðlond Óvinabókin requires the [GURPS 4th Edition Game Aid (Unofficial)](https://foundryvtt.com/packages/gurps) Foundry system.
 
-This is a premium product and requires a paid license to use in Foundry. You can acquire licenses here: **TBD**
+This is a premium product and requires a paid license to use in [Foundry](https://foundryvtt.com). You can acquire licenses here: [**TBD**]
 
 ## Using the Bestiary
 
@@ -32,18 +32,23 @@ At this point, the new Actor is ready to be used in a session.
 
 Many of the fields on the actor sheet that could be rolled against in a game are clickable. Those fields are highlighted in gold when the mouse cursor hovers over them. In the example below, the mouse is hovering over the Augnarath's Strength (ST) score.
 
+![image](https://user-images.githubusercontent.com/7349413/166728127-a4bfcde8-47c3-4528-93f5-ff0a04d21e5a.png)
+
 Clicking on these fields will make a standard GURPS 3d roll against that number, modified by any value in the modifier bucket.
 
 ### Modifiers
 
 Some fields on the actor sheet will add bonuses or penalties to the modifier bucket. These are highlighted in orange. SM, or Size Modifier, is being hovered over.
 
+![image](https://user-images.githubusercontent.com/7349413/166728216-0c10975b-b6e6-48be-b453-6d134cd5af95.png)
+
 ### Editable Fields
 
 Current HP, current FP, [Fantastic Dungeon Grappling](https://gaming-ballistic.myshopify.com/collections/all-products/products/fantastic-dungeon-grappling?_pos=5&_fid=532e29de0&_ss=c&variant=42552585322751) control points (CP), and Energy Reserve (if present) are editable. To change the currernt value, click into this field and replace its contents with the new current value.
 
-### Attacks
+![image](https://user-images.githubusercontent.com/7349413/166729153-65515483-fdb1-4b54-a7da-ef1c923071cf.png)
 
+### Attacks
 Under the attributes is the Attacks section of the Actor sheet.
 
 The name and level of the attack is rollable, as is the damage.

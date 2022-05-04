@@ -53,15 +53,28 @@ Under the attributes is the Attacks section of the Actor sheet.
 
 The name and level of the attack is rollable, as is the damage.
 
+![image](https://user-images.githubusercontent.com/7349413/166729699-81a40940-ebeb-40ae-be57-8cfdec2c7e07.png)
+
+![image](https://user-images.githubusercontent.com/7349413/166729861-96612a0e-4e0f-4814-a106-2f7472f945ae.png)
+
 Modifiers like Acc and Bulk are also clickable and add their values to the modifier bucket.
+
+![image](https://user-images.githubusercontent.com/7349413/166730246-caebce57-177c-4dd5-8786-744f578abec0.png)
 
 ### Skills and Spells
 
 All skills and spells (if present) are rollable, as expected.
 
+![image](https://user-images.githubusercontent.com/7349413/166730703-be496ee6-dac1-4338-880a-50e46e5182c9.png)
+
+![image](https://user-images.githubusercontent.com/7349413/166730913-46befdce-c1d0-423c-bed5-f6e1b98694a9.png)
+
+
 ### Special Abilities and Notes
 
 This section contains information that may be important in an encounter.
+
+![image](https://user-images.githubusercontent.com/7349413/166731235-d31b21ea-c98d-4e1a-a638-ea942fe26deb.png)
 
 ### Defenses
 
@@ -69,6 +82,15 @@ At the bottom of the Actor sheet, in a section that is always visible, are the v
 
 If one of those scores has an additional "+X" (+2, for example) to the right of the score, the actor has a Defensive Bonus (DB) equal to that value, typically from a shield. For defense rolls that qualify for the DB, click that field to make the corresponding defense roll with the DB modifier.
 
+![image](https://user-images.githubusercontent.com/7349413/166732074-055250ec-7620-4669-a566-37e79b5c06b5.png)
+
+
 ### Control Thresholds
 
 This area tracks the current control threshold that applies to this actor, based on the current number of Control Points (CP) applied. This is a value from the [Fantastic Dungeon Grappling](https://gaming-ballistic.myshopify.com/collections/all-products/products/fantastic-dungeon-grappling?_pos=5&_fid=532e29de0&_ss=c&variant=42552585322751) rules and determines the DX penalty applied to the Actor.
+
+![image](https://user-images.githubusercontent.com/7349413/166732868-724993ed-1a28-420d-963c-e5e56275411d.png)
+![image](https://user-images.githubusercontent.com/7349413/166733014-b35bdeac-834f-498a-bfe0-3a97d1780f9c.png)
+
+
+

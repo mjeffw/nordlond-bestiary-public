@@ -92,5 +92,14 @@ This area tracks the current control threshold that applies to this actor, based
 ![image](https://user-images.githubusercontent.com/7349413/166732868-724993ed-1a28-420d-963c-e5e56275411d.png)
 ![image](https://user-images.githubusercontent.com/7349413/166733014-b35bdeac-834f-498a-bfe0-3a97d1780f9c.png)
 
+### Image
+The token image for this actor is visible in the upper-right corner of the Actor sheet. The "Share" button under that image opens the full image (typically with a silhouette for scale) of the bestiary actor that includes a "Show Players" button so that this image can be displayed to all the current players.
+
+![image](https://user-images.githubusercontent.com/7349413/166740167-dbb182cc-ef2c-44c3-b219-708129d6e995.png)
+
+### Move Score
+If an actor has more than one type of movement, there will be a dropdown below the Move score to select which move score to display.
+
+![image](https://user-images.githubusercontent.com/7349413/166740365-515ea112-2e76-47b9-a34d-f2df645feca3.png)
 
 

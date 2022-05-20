@@ -4,7 +4,7 @@ This GitHub is for support of the [Foundry](https://foundryvtt.com) module, [**N
 
 The Norðlond Óvinabókin requires the [GURPS 4th Edition Game Aid (Unofficial)](https://foundryvtt.com/packages/gurps) Foundry system.
 
-This is a premium product and requires a paid license to use in [Foundry](https://foundryvtt.com). You can acquire licenses here: [**TBD**]
+This is a premium product and requires a paid license to use in [Foundry](https://foundryvtt.com). You can acquire licenses here: [**TBD**] (Currently licenses are being distributed to Kickstarter backers, once that is complete we'll update the link with the Gaming Ballistic purchase page.)
 
 ## Using the Bestiary
 
@@ -21,6 +21,8 @@ From this window you can search for a specific entry using the search bar, or cl
 ![image](https://user-images.githubusercontent.com/7349413/166708106-b1d13c67-2a07-43df-ae34-ccf2c85bc658.png)
 
 When you see an entry you would like to use in a game session, open its Actor sheet and click the "Import" button in its title bar. This will add the entry to your Actors Directory in the sidebar.
+
+Alternately, you can right click on the Compendium and select 'Import All Content' to import all 180+ enemies into your Actor directory.
 
 ![image](https://user-images.githubusercontent.com/7349413/166708752-00607f8d-0eaa-4548-9162-ddcf641ae783.png)
 

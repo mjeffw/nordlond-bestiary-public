@@ -4,7 +4,7 @@ This GitHub is for support of the [Foundry](https://foundryvtt.com) module, [**N
 
 The Norðlond Óvinabókin requires the [GURPS 4th Edition Game Aid (Unofficial)](https://foundryvtt.com/packages/gurps) Foundry system.
 
-This is a premium product and requires a paid license to use in [Foundry](https://foundryvtt.com). You can acquire licenses here: [**TBD**] (Currently licenses are being distributed to Kickstarter backers, once that is complete we'll update the link with the Gaming Ballistic purchase page.)
+This is a premium product and requires a paid license to use in [Foundry](https://foundryvtt.com). You can acquire licenses here: [Nordlond Bestiary Foundry VTT Module](https://gaming-ballistic.myshopify.com/collections/all-products/products/nordlond-bestiary-vtt-module).
 
 ## Using the Bestiary
 

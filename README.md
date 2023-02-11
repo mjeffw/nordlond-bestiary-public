@@ -28,6 +28,9 @@ Alternately, you can right click on the Compendium and select 'Import All Conten
 
 At this point, the new Actor is ready to be used in a session.
 
+### Linking the Actor Sheet to the PDF
+If you own the Nordlond Bestiary PDF, you can link the actor sheet to open the PDF by using the PDF Book Code of 'NB'.
+
 ## Overview of the Bestiary Actor Sheet
 
 ### Rollable Fields
